@@ -209,23 +209,6 @@ User-Agent: Telnet
 
 ```
 
-## Stage Completion Checklist
-
-- [x] Stage 1: Bind to port 4221
-- [x] Stage 2: Respond with 200 OK
-- [x] Stage 3: Extract URL path
-- [x] Stage 4: Respond with body
-- [x] Stage 5: Read headers
-- [x] Stage 6: Concurrent connections
-- [x] Stage 7: Return a file
-- [x] Stage 8: Read request body (POST)
-- [x] Stage 9: Parse Accept-Encoding header
-- [x] Stage 10: Handle multiple compression schemes
-- [x] Stage 11: Implement gzip compression
-- [x] Stage 12: Persistent connections
-- [x] Stage 13: Concurrent persistent connections
-- [x] Stage 14: Connection closure handling
-
 ## Learning Outcomes
 
 This project demonstrates:
@@ -240,11 +223,3 @@ This project demonstrates:
 ## License
 
 This project is created for educational purposes as part of the CodeCrafters challenge.
-
-## Author
-
-Ziad Rohayiem
-
-## Repository
-
-https://github.com/Ziad-Rohayiem/My-Own-Http-Server
